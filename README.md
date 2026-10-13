@@ -1,5 +1,7 @@
 # Andhbhakt.org
 
+> This checkout now opens **Fair Go — Australia**, an Australian adaptation. See [AUSTRALIA.md](AUSTRALIA.md) for its setup, source coverage and limitations. The original project documentation below describes the retained India implementation.
+
 A civic accountability platform that cross-references official government announcements against Comptroller and Auditor General (CAG) audit findings — so citizens can see the gap between political promises and ground reality.
 
 **Live site**: [andhbhakt.org](https://andhbhakt.org)
